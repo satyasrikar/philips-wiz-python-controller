@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+.env
+.venv
+wizenv/
+
+# Build
+build/
+dist/
+*.spec
+
+# OS
+.DS_Store
+
+# PyInstaller
+*.pkg
+*.dmg
+*.app/
