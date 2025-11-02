@@ -17,4 +17,5 @@ A modern Tk/ttkbootstrap GUI to control **Philips WiZ** bulbs locally over UDP.
 python -m venv wizenv
 source wizenv/bin/activate   # Windows: wizenv\Scripts\activate
 pip install -r requirements.txt
+python -m wiz_controller.app
 ```
